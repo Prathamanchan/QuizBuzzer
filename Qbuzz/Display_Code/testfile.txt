@@ -1,0 +1,21 @@
+ a tre
+ GamehsSatdFunctin eTe
+to eTime
+unction getTime
+ogtimFuncingtFFunction getTime
+  ND  0.00 ms
+ ND  0.00 ms
+RED  4442.00 ms
+  YELLOW  6788.00 ms
+ GREEN  8753.00 ms
+ Game has Started
+Function getTime
+Function getTime
+Function getTime
+Function getTime
+  RED  5326.00 ms
+ BLUE  6261.00 ms
+ YELLOW  7895.00 ms
+  ORANGE  9100.00 ms
+  ND  0.00 ms
+ Incorrect 

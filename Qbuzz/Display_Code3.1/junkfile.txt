@@ -1,0 +1,12 @@
+Hello World this is junk
+I have no idea what to write in this file
+but still i am writing
+so here thus it becomes a junk file
+soo let's be serious
+
+ReED 230 MS
+GREEN 280 MS
+ORANGE 390 MS
+YELLOW 800 MS
+I hope my code works, tho i never trust my code
+
